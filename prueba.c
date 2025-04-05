@@ -6,6 +6,6 @@ int main()
     printf("Ingrese un numero entero: ");
     scanf("%d", &num);
     printf("Se ingreso un %d", num);
-    printf("Hola mundo\n");
+    //Actualizacion del codigo de prueba
     return 0;
 }
